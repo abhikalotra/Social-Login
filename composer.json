@@ -1,0 +1,10 @@
+{
+  	"name": "seocom/social_login",
+	"type": "cakephp-plugin",
+  	"homepage": "https://github.com/seocom/social_login",
+	"require": {
+		"composer/installers": "*",
+		"opauth/opauth": "dev-wip/1.0",
+		"opauth/google" : "dev-wip/1.0"
+	}
+}
